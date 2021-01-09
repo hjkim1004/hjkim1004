@@ -7,7 +7,7 @@ Now, let me introduce myself.
 
 ### 📝 Education 
 - [16.03 ~ 20.02] Bachelor's Degree in Computer Engineering
-- [19.07 ~ 19.08] 청년취업 아카데미 "JAVA 프레임워크 실무개발자 양성과정_단기Ⅰ" 이수
+- [19.07 ~ 19.08] Youth Employment Academy "JAVA 프레임워크 실무개발자 양성 단기 과정" completed
 
 ### 🏆 Certification 
 - [19.05.22] Engineer Information Processing
