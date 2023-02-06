@@ -4,21 +4,21 @@
 ## 👋 Introduction
 Hi, I'm Full-stack developer. Thanks for visiting.💖 <br>
 Now, let me introduce myself.<br>
-Ref) [@hjkim1004-dev](https://github.com/hjkim1004-dev) This is my sub account.<br>
+Ref) [@khj-dev](https://github.com/hjkim1004-dev) This is my sub account.<br>
 
 <br>
 
 ### 📝 Education 
-- [16.03 ~ 20.02] Bachelor's Degree in Computer Engineering
-- [19.07 ~ 19.08] 청년취업 아카데미 "JAVA 프레임워크 실무개발자 양성 단기 과정" 수료
+- [16.03 ~ 20.02] `컴퓨터 공학` 학사 학위 취득
+- [19.07 ~ 19.08] `청년취업 아카데미` "JAVA 프레임워크 실무개발자 양성 단기 과정" 수료
 
 ### 🏆 Certification 
-- [19.05.22] 정보처리기사
-- [20.02.01] OPIc IM2(Intermediate Mid)
+- [19.05.22] `정보처리기사` 취득
+- [22.05.28] `SQLD` 취득
 
 ### 💻 Professional Experience
-- [20.07 ~ ] working at NICOM - Researcher / 웹 개발 직무
-- [19.09 ~ 19.12] worked at KIC Consulting for Internship - Researcher / 솔루션 지원 직무
+- [20.07 ~ ] working at NICOM - Researcher / `Web Developer`
+- [19.09 ~ 19.12] worked at KIC Consulting for Internship - Researcher / `Atlassian Solution Supportor`
 
 <br>
 
@@ -76,7 +76,7 @@ After reading my profile, It's likey that you just wonder what can I do.
 - You can see my interest at [Study Repo](https://github.com/dadmi97/Study) in detail
 
 <!--
-**dadmi97/dadmi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hjkim1004/hjkim1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
