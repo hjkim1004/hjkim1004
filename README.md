@@ -12,9 +12,13 @@ Ref) [@khj-dev](https://github.com/hjkim1004-dev) This is my sub account.<br>
 - [16.03 ~ 20.02] `컴퓨터 공학` 학사 학위 취득
 - [19.07 ~ 19.08] `청년취업 아카데미` "JAVA 프레임워크 실무개발자 양성 단기 과정" 수료
 
+<br>
+
 ### 🏆 Certification 
 - [19.05.22] `정보처리기사` 취득
 - [22.05.28] `SQLD` 취득
+
+<br>
 
 ### 💻 Professional Experience
 - [20.07 ~ ] working at NICOM - Researcher / `Web Developer`
@@ -42,25 +46,24 @@ Ref) [@khj-dev](https://github.com/hjkim1004-dev) This is my sub account.<br>
 I have experiences for these technologies <br>
 
 #### 1. Back-end
-- Java, Spring MVC, Spring Boot, MyBatis
-- ActiveMQ, WebSocket
-- Spring Security
+`Java`, `Spring MVC`, `Spring Boot`, `MyBatis`, `JPA`, `ActiveMQ`, `WebSocket`, `Spring Security`
+
 
 #### 2. Front-end
-- HTML/CSS, Web Designs
-- jQuery, Bootstrap 4.6, Tabulator 4.9, SweetAlert2, etc ...
-- Tiles Configuration
+`HTML/CSS`, `jQuery`, `Bootstrap`, `Tabulator`, `Tiles`, etc ...
+
 
 #### 3. Server
-- Linux: simple command 💻
-- Apache, Tomcat: web server configuration, reverse proxy
+`Linux`, `Apache`, `Tomcat`
 
 #### 4. Database
-- RDBMS(MS-SQL, PostgreSQL, Oracle, ...)
+`RDBMS` (MS-SQL, PostgreSQL, Oracle, ...)
 
 #### 5. DVCS
-- git, svn
+`git`, `svn`
 
+#### 6. Native App (WebView)
+`kotlin`, `Android Studio`, `Swift5`, `iOS` - Simple WebView 
 <br>
 
 ## 💡 What I can do
@@ -70,10 +73,7 @@ After reading my profile, It's likey that you just wonder what can I do.
 - To build up projects with our team
 
 ### 👀 Recently Interest
-- Messaging Tech (ActiveMQ, RabbitMQ, Kafka, ...)
-- DevOps
-- Spring Security
-- You can see my interest at [Study Repo](https://github.com/dadmi97/Study) in detail
+- You can see my interest at [Blog](https://velog.io/@developer_khj) in detail
 
 <!--
 **hjkim1004/hjkim1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
