@@ -31,15 +31,15 @@ Ref) [@khj-dev](https://github.com/hjkim1004-dev). This is my sub account which 
 <br>
 
 ### 💎 Projects at NICOM
-#### 1. API Server - [링크](https://api.enicom.co.kr/)
+#### API Server - [링크](https://api.enicom.co.kr/)
 - Apache web server configuration (Between WebServer and WAS using reverse proxy)
 - Various side projects (batch job, rest api, ...)
 
-#### 2. 스마트도서관 어플 개발 - [링크](https://m.smartlib.co.kr)
+#### 스마트도서관 어플 개발 - [링크](https://m.smartlib.co.kr)
 - Hybrid Webapp 개발 - Android(Kotlin), IOS(Swift) using WebView, JavaScriptInterface
 - Messaging between **Server** and **Client** using **ActiveMQ**
 
-##### 3. 도서 검색페이지 - [링크1](https://smart.gdlibrary.or.kr:9525/book?no=1), [링크2](https://smartlib.mapo.go.kr:9525/)
+#### 도서 검색페이지 - [링크1](https://smart.gdlibrary.or.kr:9525/book?no=1), [링크2](https://smartlib.mapo.go.kr:9525/)
 - Responsive Web (Mobile Support)
 - Access multi-DB(same scheme) using RoutingDataSource
 - IE Browser support issue
