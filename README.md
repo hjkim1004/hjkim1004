@@ -8,7 +8,7 @@ I'm Full-stack developer.<br>
 
 If you are interested in me, please send a email to [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fascinate97@gmail.com)](mailto:fascinate97@gmail.com)
 
-Ref) [@khj-dev](https://github.com/hjkim1004-dev). This is my sub account which is empty yet. 😁😁<br>
+Ref) [@twinklekhj](https://github.com/twinklekhj). This is my sub account which is empty yet. 😁😁<br>
 
 <br>
 
